@@ -5,7 +5,7 @@ The task is to perform classification on a mixture of mixtures of Gaussian data.
 ## Usage
 
 We recommend executing the notebook using a PyTorch GPU kernel.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/deepmind/asyncdiloco/blob/master/AsyncLocalSGDToyExample.IPYNB)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/google-deepmind/asyncdiloco/blob/master/AsyncLocalSGDToyExample.ipynb)
 
 ## Citing this work
 
