@@ -9,7 +9,20 @@ We recommend executing the notebook using a PyTorch GPU kernel.
 
 ## Citing this work
 
-Coming soon.
+If you use the colab in this package, please cite:
+
+```bibtex
+@misc{liu2024asynchronous,
+      title={Asynchronous Local-SGD Training for Language Modeling},
+      author={Bo Liu and Rachita Chhaparia and Arthur Douillard and Satyen Kale and Andrei A. Rusu and Jiajun Shen and Arthur Szlam and Marc'Aurelio Ranzato},
+      year={2024},
+      eprint={2401.09135},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
+}
+```
+
+You can see the paper at https://arxiv.org/abs/2401.09135.
 
 ## License and disclaimer
 
